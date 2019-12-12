@@ -5,6 +5,7 @@
 - Discussão inicial
 - VR / AR / Interação
 - Programação Criativa
+- Colaboração e recusos abertos!
 
 ## VR no Processing
 
