@@ -1,4 +1,6 @@
-# VR no Processing
+# Realidade Virtual e programação criativa
+
+## VR no Processing
 
 ### Essencial
 
